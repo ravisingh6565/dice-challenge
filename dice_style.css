@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(24, 24, 57);
+}
+h1{
+    font-size: 5rem;
+    text-align: center;
+    color: brown;
+}
+div{
+
+    display:flex;
+    flex-flow: row;
+}
+img{
+    height: 100px;
+    width: 100px;
+    margin-left: 30px;
+    word-spacing: normal;
+}
+.adj{
+ margin-left: 500px;   
+}
